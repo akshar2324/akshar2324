@@ -63,11 +63,12 @@ Working on industrial products involving:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshar2324&show_icons=true&theme=github_dark&hide_border=true&title_color=00C896&icon_color=00C896" alt="Akshar's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar2324&layout=compact&theme=github_dark&hide_border=true&title_color=00C896" alt="Akshar's top languages" />
+  <a href="https://github.com/akshar2324?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-57-00C896?style=for-the-badge&logo=github&logoColor=white&labelColor=111817" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/akshar2324">
+    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Android%20%7C%20Embedded%20%7C%20Backend-00C896?style=for-the-badge&labelColor=111817" alt="Engineering focus" />
+  </a>
 </p>
 
 ## What I Like Building
