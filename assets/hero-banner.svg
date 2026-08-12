@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080a12"/>
+      <stop offset="40%" stop-color="#0d0f1a"/>
+      <stop offset="100%" stop-color="#110d20"/>
+    </linearGradient>
+    <linearGradient id="hline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#a970ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#a970ff"/>
+      <stop offset="70%" stop-color="#a970ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#a970ff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a970ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#6d35ff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#6d35ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="hglow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .hero-title{font:700 42px 'Segoe UI',system-ui,sans-serif;fill:#ffffff;letter-spacing:2px}
+      .hero-sub{font:400 16px 'Segoe UI',system-ui,sans-serif;fill:#b0a8c8;letter-spacing:1.5px}
+      .hero-accent{font:600 14px 'Segoe UI',system-ui,sans-serif;fill:#a970ff;letter-spacing:3px}
+      .hero-dot{fill:#a970ff}
+    </style>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#hbg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.04" stroke="#a970ff" stroke-width="0.5">
+    <line x1="0" y1="0" x2="0" y2="220"/><line x1="60" y1="0" x2="60" y2="220"/>
+    <line x1="120" y1="0" x2="120" y2="220"/><line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="240" y1="0" x2="240" y2="220"/><line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/><line x1="420" y1="0" x2="420" y2="220"/>
+    <line x1="480" y1="0" x2="480" y2="220"/><line x1="540" y1="0" x2="540" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/><line x1="660" y1="0" x2="660" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/><line x1="780" y1="0" x2="780" y2="220"/>
+    <line x1="840" y1="0" x2="840" y2="220"/><line x1="900" y1="0" x2="900" y2="220"/>
+    <line x1="0" y1="0" x2="900" y2="0"/><line x1="0" y1="44" x2="900" y2="44"/>
+    <line x1="0" y1="88" x2="900" y2="88"/><line x1="0" y1="132" x2="900" y2="132"/>
+    <line x1="0" y1="176" x2="900" y2="176"/><line x1="0" y1="220" x2="900" y2="220"/>
+  </g>
+
+  <!-- Ambient orbs -->
+  <circle cx="140" cy="60" r="120" fill="url(#orb1)"/>
+  <circle cx="780" cy="170" r="100" fill="url(#orb2)"/>
+  <circle cx="500" cy="30" r="80" fill="url(#orb1)" opacity="0.5"/>
+
+  <!-- Content -->
+  <text x="450" y="80" text-anchor="middle" class="hero-accent">SOFTWARE ENGINEER</text>
+  <text x="450" y="130" text-anchor="middle" class="hero-title">AKSHAR KALATHIYA</text>
+  <text x="450" y="168" text-anchor="middle" class="hero-sub">Hardware → Software → AI → Infrastructure</text>
+
+  <!-- Bottom accent line -->
+  <line x1="100" y1="200" x2="800" y2="200" stroke="url(#hline)" stroke-width="2" filter="url(#hglow)"/>
+  <circle cx="450" cy="200" r="4" class="hero-dot" filter="url(#hglow)"/>
+  <circle cx="380" cy="200" r="2" class="hero-dot" opacity="0.6"/>
+  <circle cx="520" cy="200" r="2" class="hero-dot" opacity="0.6"/>
+</svg>

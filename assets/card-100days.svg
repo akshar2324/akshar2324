@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240">
+  <defs>
+    <linearGradient id="cbg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1019"/>
+      <stop offset="100%" stop-color="#12101f"/>
+    </linearGradient>
+    <linearGradient id="cv3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a970ff"/>
+      <stop offset="100%" stop-color="#6d35ff"/>
+    </linearGradient>
+    <filter id="cg3">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .ct3{font:700 18px 'Segoe UI',system-ui,sans-serif;fill:#fff}
+      .ctag3{font:600 10px 'Segoe UI',system-ui,sans-serif;fill:#a970ff;letter-spacing:1.5px}
+      .cd3{font:400 12px 'Segoe UI',system-ui,sans-serif;fill:#9a92b0}
+      .cf3{font:400 11px 'Segoe UI',system-ui,sans-serif;fill:#7a6f96}
+      .clink3{font:600 11px 'Segoe UI',system-ui,sans-serif;fill:#a970ff;letter-spacing:1px}
+    </style>
+  </defs>
+
+  <rect width="420" height="240" rx="16" fill="url(#cbg3)" stroke="#2a1f4e" stroke-width="1.5"/>
+  <rect x="0" y="0" width="4" height="240" rx="2" fill="url(#cv3)" opacity="0.6"/>
+
+  <circle cx="42" cy="42" r="20" fill="#1a1530" stroke="#7c52e8" stroke-width="1.5"/>
+  <text x="42" y="49" text-anchor="middle" font-size="18">⚡</text>
+
+  <text x="74" y="38" class="ctag3">CONSISTENCY · LEARNING</text>
+  <text x="74" y="56" class="ct3">100 Days of Coding</text>
+
+  <text x="28" y="88" class="cd3">A long-running coding challenge focused on</text>
+  <text x="28" y="104" class="cd3">learning by building across multiple languages.</text>
+
+  <circle cx="36" cy="130" r="3" fill="#a970ff" filter="url(#cg3)"/>
+  <text x="46" y="134" class="cf3">Daily coding challenges</text>
+  <circle cx="36" cy="150" r="3" fill="#a970ff" filter="url(#cg3)"/>
+  <text x="46" y="154" class="cf3">Cross-language exploration</text>
+  <circle cx="36" cy="170" r="3" fill="#a970ff" filter="url(#cg3)"/>
+  <text x="46" y="174" class="cf3">Building discipline through practice</text>
+
+  <rect x="28" y="194" width="52" height="20" rx="6" fill="#1a1530" stroke="#3a2878" stroke-width="1"/>
+  <text x="54" y="208" text-anchor="middle" class="cf3" fill="#b792ff" font-size="10">Python</text>
+  <rect x="88" y="194" width="42" height="20" rx="6" fill="#1a1530" stroke="#3a2878" stroke-width="1"/>
+  <text x="109" y="208" text-anchor="middle" class="cf3" fill="#b792ff" font-size="10">Java</text>
+  <rect x="138" y="194" width="50" height="20" rx="6" fill="#1a1530" stroke="#3a2878" stroke-width="1"/>
+  <text x="163" y="208" text-anchor="middle" class="cf3" fill="#b792ff" font-size="10">Kotlin</text>
+  <rect x="196" y="194" width="52" height="20" rx="6" fill="#1a1530" stroke="#3a2878" stroke-width="1"/>
+  <text x="222" y="208" text-anchor="middle" class="cf3" fill="#b792ff" font-size="10">Flutter</text>
+
+  <text x="348" y="226" text-anchor="end" class="clink3">EXPLORE REPO →</text>
+</svg>

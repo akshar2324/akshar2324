@@ -1,321 +1,304 @@
+<!-- ═══════════════════════════════════════════════════════════════════════
+     AKSHAR KALATHIYA — GitHub Profile README
+     Software Engineer · Hardware → Software → AI → Infrastructure
+     ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<!-- ══════════════ HERO BANNER ══════════════ -->
+
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/hero-banner.svg" width="100%" alt="Akshar Kalathiya — Software Engineer"/>
+
+<br>
+
+<!-- PROFILE IMAGE -->
 <img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/profile.png"
-     width="180"
+     width="160"
+     style="border-radius:50%"
      alt="Akshar Kalathiya"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=900&lines=AKSHAR+KALATHIYA;Software+Engineer+%7C+Builder+%7C+Systems+Thinker;Hardware+%E2%86%92+Software+%E2%86%92+AI+%E2%86%92+Infrastructure;Build.+Break.+Debug.+Repeat." alt="Typing animation"/>
+<!-- ANIMATED TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=680&lines=I+don't+just+write+software.+I+build+systems.;Hardware+%E2%86%92+Software+%E2%86%92+AI+%E2%86%92+Infrastructure;Curious+%C2%B7+Experimental+%C2%B7+Systems-Oriented" alt="Typing animation"/>
 
 <br><br>
 
+<!-- CTA BUTTONS -->
 <a href="https://akshar2324.github.io/akshar-kalathiya-portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A970FF"/>
-</a>
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A970FF" alt="Portfolio"/>
+</a>&nbsp;
 <a href="https://github.com/akshar2324">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A970FF"/>
-</a>
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A970FF" alt="GitHub"/>
+</a>&nbsp;
 <a href="mailto:hello@aksharkalathiya.dev">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=A970FF"/>
+  <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=A970FF" alt="Contact"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akshar2324&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=akshar2324&style=flat-square&color=6D35FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
+
+<!-- ══════════════ ABOUT ══════════════ -->
 
 <div align="center">
-
-### I build across the whole stack.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,c,flutter,androidstudio,raspberrypi,arduino,opencv,pytorch,flask,postgres,redis,docker,linux,githubactions,nginx,git,react,ts,vite,tailwind,threejs&perline=12" alt="Technology icons"/>
-
+<h2>
+<img src="https://img.shields.io/badge/ABOUT-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
 </div>
 
----
+<table>
+<tr>
+<td>
 
-## `ABOUT / AKSHAR`
+I'm a software engineer who builds across the full depth of the stack — from **embedded hardware** to **mobile applications** to **AI pipelines** to **cloud infrastructure**.
 
-I'm a software engineer who enjoys building things where **software meets the real world**.
-
-I like working across application development, embedded systems, backend software, computer vision, AI, Linux, networking, infrastructure, and automation.
-
-Instead of staying inside one layer, I like following a problem all the way through:
+Instead of staying inside one layer, I follow problems all the way through:
 
 **device → software → data → AI → infrastructure → automation**
 
-> **I don't just want the app to work. I want to understand the system that makes it work.**
+> *"I don't just want the application to work. I want to understand the system that makes it work."*
 
----
+My work spans **Android**, **embedded Linux**, **computer vision**, **backend systems**, **networking**, and **developer tooling** — connected by a preference for building things that actually run in the real world.
 
-## `HOW I THINK`
+</td>
+</tr>
+</table>
+
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
+
+<!-- ══════════════ SYSTEM ARCHITECTURE ══════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://img.shields.io/badge/HOW_I_BUILD-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/system-architecture.svg"
-     width="950"
-     alt="Visual system architecture"/>
+     width="820"
+     alt="System architecture — Hardware to Infrastructure"/>
 
 </div>
 
----
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
 
-## `TECH STACK`
+<!-- ══════════════ TECH STACK ══════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,c,cpp,ts,js&theme=dark" alt="Languages"/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&theme=dark" alt="Mobile stack"/>
-
-### Backend / Data
-
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,sqlite,redis,firebase&theme=dark" alt="Backend stack"/>
-
-### AI / Vision
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and computer vision"/>
-
-### Embedded / Systems
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,bash,docker,nginx,git,githubactions&theme=dark" alt="Embedded and systems"/>
-
-### Web / Creative
-
-<img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,threejs,gsap&theme=dark" alt="Web stack"/>
-
-</div>
-
----
-
-## `WHAT I LIKE BUILDING`
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Systems
-
-Android and Flutter applications where UI is only one layer of the product.
-
-Camera pipelines, background processing, device communication, local storage and hardware integration are where things get interesting.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Embedded Systems
-
-Raspberry Pi, ESP32 and Linux-based systems that connect software to physical devices.
-
-I enjoy the boundary between code and hardware.
-
+<td align="center" width="150"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,ts,js&theme=dark" alt="Languages"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 AI / Computer Vision
-
-Computer vision, image processing, inference pipelines and AI features that solve actual engineering problems.
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Infrastructure
-
-Linux servers, Docker, networking, databases, queues, secure connectivity and distributed processing.
-
+<td align="center"><b>Mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&theme=dark" alt="Mobile"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 Automation
-
-Tools and workflows that remove repetitive engineering work and make systems more autonomous.
-
+<td align="center"><b>Backend &amp; Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flask,postgres,redis,sqlite,celery&theme=dark" alt="Backend"/>
 </td>
-<td width="50%" valign="top">
+</tr>
 
-### 🛠️ Developer Tools
+<tr>
+<td align="center"><b>AI &amp; Vision</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,python&theme=dark" alt="AI"/>
+</td>
+</tr>
 
-Git, GitHub, CI/CD, scripting, debugging and the glue that makes everything else easier to ship.
+<tr>
+<td align="center"><b>Embedded</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,c,cpp&theme=dark" alt="Embedded"/>
+</td>
+</tr>
 
+<tr>
+<td align="center"><b>Infrastructure</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,git&theme=dark" alt="Infrastructure"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,threejs&theme=dark" alt="Web"/>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## `FEATURED PROJECTS`
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
 
-### 🟣 AkSpend
-**Private • Offline • Personal Finance**
+<!-- ══════════════ PROJECTS ══════════════ -->
 
-A personal finance manager built around local-first data.
+<div align="center">
+<h2>
+<img src="https://img.shields.io/badge/FEATURED_PROJECTS-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
+</div>
 
-- 🔒 Encrypted local storage
-- 📴 Offline-first workflow
-- 💱 Multi-currency support
-- 📊 Budgets and reports
-- 📤 CSV export
+<br>
 
+<div align="center">
+
+<!-- PROJECT 1: AkSpend -->
 <a href="https://akshar2324.github.io/AkSpend-Web/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A970FF"/>
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/card-akspend.svg"
+     width="400"
+     alt="AkSpend — Personal Finance Manager"/>
 </a>
 
----
+<br><br>
 
-### 🌌 Wallpaper Engine
-**Android • Scheduling • Background Processing**
+<!-- PROJECT 2: Wallpaper Engine -->
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/card-wallpaper.svg"
+     width="400"
+     alt="Wallpaper Engine — Android Automation"/>
 
-An Android wallpaper application focused on automated wallpaper changes and reliable scheduling.
+<br><br>
 
-The fun part is dealing with the realities of Android:
-
-**background work • scheduling • battery restrictions • permissions • reliable execution**
-
----
-
-### ⚡ 100 Days of Coding
-**Consistency • Learning • Building**
-
-A long-running coding challenge focused on learning by building across Python, mobile development and multiple programming languages.
-
+<!-- PROJECT 3: 100 Days of Coding -->
 <a href="https://github.com/Akshar062/100-day-coding-challenge">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=A970FF"/>
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/card-100days.svg"
+     width="400"
+     alt="100 Days of Coding Challenge"/>
 </a>
 
----
+</div>
 
-## `ENGINEERING MINDSET`
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
+
+<!-- ══════════════ GITHUB STATS ══════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://img.shields.io/badge/GITHUB_STATS-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=A970FF&center=true&vCenter=true&width=850&lines=UNDERSTAND;BUILD;BREAK;DEBUG;AUTOMATE;IMPROVE;SHIP;REPEAT." alt="Engineering mindset animation"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshar2324&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="420" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar2324&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&langs_count=8" width="350" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=85&section=header&text=CURIOUS%20%E2%80%A2%20EXPERIMENTAL%20%E2%80%A2%20SYSTEM-ORIENTED&fontColor=A970FF&fontSize=22&fontAlignY=55" alt="Engineering traits"/>
+<img src="https://streak-stats.demolab.com?user=akshar2324&theme=dark&hide_border=true&background=0D1117&stroke=A970FF&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&dates=8B949E" width="480" alt="GitHub Streak"/>
 
 </div>
 
----
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
 
-## `GITHUB / LIVE DATA`
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://img.shields.io/badge/ACTIVITY-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshar2324&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshar2324&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshar2324/akshar2324/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/akshar2324/akshar2324/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+</picture>
+
+</div>
+
+<!-- ══════════════ DIVIDER ══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
+</div>
+
+<!-- ══════════════ CURRENTLY EXPLORING ══════════════ -->
+
+<div align="center">
+<h2>
+<img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,docker,linux,postgres,redis,githubactions,android,kotlin,python&theme=dark" alt="Current focus"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=akshar2324&theme=dark&hide_border=true&background=0D1117&stroke=A970FF&ring=A970FF&fire=A970FF&currStreakLabel=A970FF" alt="GitHub streak"/>
+**AI-assisted development** · **Android engineering** · **Embedded Linux** · **Infrastructure** · **Automation**
 
 </div>
 
----
-
-## `ACTIVITY`
-
+<!-- ══════════════ DIVIDER ══════════════ -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/output/github-contribution-grid-snake-dark.svg"
-     alt="GitHub contribution animation"/>
-
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/section-divider.svg" width="100%" alt=""/>
 </div>
 
----
-
-## `A LITTLE MORE ABOUT ME`
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🖥️
-**Linux**
-
-</td>
-<td align="center" width="20%">
-
-### ⚙️
-**Embedded**
-
-</td>
-<td align="center" width="20%">
-
-### 🧠
-**AI**
-
-</td>
-<td align="center" width="20%">
-
-### 📱
-**Android**
-
-</td>
-<td align="center" width="20%">
-
-### 🚀
-**Automation**
-
-</td>
-</tr>
-</table>
-
-I like dark interfaces, purple accents, terminal windows, anime-inspired aesthetics, and projects that are just complicated enough to become interesting.
-
----
-
-## `CURRENTLY EXPLORING`
+<!-- ══════════════ CONNECT ══════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://img.shields.io/badge/CONNECT-0D1117?style=flat-square&logoColor=A970FF" height="24" alt=""/>
+</h2>
 
-<img src="https://skillicons.dev/icons?i=pytorch,docker,linux,postgres,redis,githubactions,android,kotlin,python&theme=dark" alt="Current exploration icons"/>
-
-<br><br>
-
-**AI-assisted development · Android engineering · Embedded Linux · Infrastructure · Distributed processing · Automation**
-
-</div>
-
----
-
-## `CONNECT`
-
-<div align="center">
+<br>
 
 <a href="https://github.com/akshar2324">
-<img src="https://img.shields.io/badge/GitHub-A970FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-A970FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
 <a href="https://akshar2324.github.io/akshar-kalathiya-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-A970FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Portfolio-A970FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
 <a href="mailto:hello@aksharkalathiya.dev">
-<img src="https://img.shields.io/badge/Email-A970FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-A970FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=A970FF&center=true&vCenter=true&width=700&lines=Stay+curious.;Keep+building.;Make+the+system+better." alt="Closing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=6D35FF&center=true&vCenter=true&width=500&lines=Stay+curious.;Keep+building.;Understand+the+system." alt="Closing animation"/>
 
 <br><br>
 
-<sub>© Akshar Kalathiya</sub>
+<!-- FOOTER -->
+<img src="https://raw.githubusercontent.com/akshar2324/akshar2324/main/assets/footer.svg" width="100%" alt=""/>
 
 </div>

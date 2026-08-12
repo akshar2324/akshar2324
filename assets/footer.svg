@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#12101f"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a970ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a970ff"/>
+      <stop offset="100%" stop-color="#a970ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fg">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .ft{font:700 12px 'Segoe UI',system-ui,sans-serif;fill:#a970ff;letter-spacing:3px}
+    </style>
+  </defs>
+  <rect width="900" height="60" fill="url(#fbg)" opacity="0.5"/>
+  <line x1="100" y1="50" x2="800" y2="50" stroke="url(#fline)" stroke-width="1" filter="url(#fg)" opacity="0.5"/>
+  <text x="450" y="36" text-anchor="middle" class="ft">AKSHAR KALATHIYA · SOFTWARE ENGINEER</text>
+  <circle cx="220" cy="36" r="2" fill="#a970ff" opacity="0.3"/>
+  <circle cx="680" cy="36" r="2" fill="#a970ff" opacity="0.3"/>
+</svg>
