@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="610" viewBox="0 0 1100 610">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090b10"/>
+      <stop offset="100%" stop-color="#121021"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a970ff"/>
+      <stop offset="100%" stop-color="#6d35ff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title{font:700 22px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#fff}
+      .sub{font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#b9b7c6}
+      .glyph{font:700 24px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#fff}
+      .node{fill:#10131b;stroke:#7f4cff;stroke-width:2}
+      .line{stroke:#5d3ab8;stroke-width:3;fill:none;stroke-linecap:round}
+      .dot{fill:#b792ff}
+    </style>
+  </defs>
+
+  <rect width="1100" height="610" rx="28" fill="url(#bg)"/>
+  <circle cx="180" cy="90" r="95" fill="#6d35ff" opacity=".10"/>
+  <circle cx="925" cy="530" r="130" fill="#8d5cff" opacity=".08"/>
+
+  <text x="55" y="52" class="title">HOW I BUILD</text>
+  <text x="55" y="77" class="sub">A visual map of the layers I like to connect.</text>
+
+  <!-- connectors -->
+  <path d="M205 210 C330 165 355 165 470 205" class="line" filter="url(#glow)"/>
+  <path d="M630 205 C750 165 780 165 895 210" class="line" filter="url(#glow)"/>
+  <path d="M205 370 C340 425 360 425 470 370" class="line" filter="url(#glow)"/>
+  <path d="M630 370 C750 425 780 425 895 370" class="line" filter="url(#glow)"/>
+  <path d="M550 250 L550 335" class="line" filter="url(#glow)"/>
+
+  <!-- center -->
+  <circle cx="550" cy="293" r="72" fill="#151022" stroke="url(#violet)" stroke-width="4" filter="url(#glow)"/>
+  <text x="550" y="288" text-anchor="middle" class="glyph">&lt;/&gt;</text>
+  <text x="550" y="316" text-anchor="middle" class="sub">SOFTWARE</text>
+
+  <!-- top nodes -->
+  <rect x="55" y="145" width="250" height="130" rx="22" class="node"/>
+  <circle cx="103" cy="193" r="22" fill="#6d35ff"/>
+  <text x="103" y="201" text-anchor="middle" class="glyph">⚙</text>
+  <text x="140" y="192" class="title">HARDWARE</text>
+  <text x="88" y="232" class="sub">Raspberry Pi · ESP32 · IoT</text>
+  <text x="88" y="252" class="sub">Cameras · Sensors · Devices</text>
+
+  <rect x="795" y="145" width="250" height="130" rx="22" class="node"/>
+  <circle cx="843" cy="193" r="22" fill="#6d35ff"/>
+  <text x="843" y="201" text-anchor="middle" class="glyph">AI</text>
+  <text x="880" y="192" class="title">AI / VISION</text>
+  <text x="828" y="232" class="sub">PyTorch · OpenCV</text>
+  <text x="828" y="252" class="sub">Inference · Computer Vision</text>
+
+  <!-- bottom nodes -->
+  <rect x="55" y="335" width="250" height="130" rx="22" class="node"/>
+  <circle cx="103" cy="383" r="22" fill="#6d35ff"/>
+  <text x="103" y="391" text-anchor="middle" class="glyph">⌘</text>
+  <text x="140" y="382" class="title">BACKEND</text>
+  <text x="88" y="422" class="sub">Python · Flask · PostgreSQL</text>
+  <text x="88" y="442" class="sub">Redis · Queues · APIs</text>
+
+  <rect x="795" y="335" width="250" height="130" rx="22" class="node"/>
+  <circle cx="843" cy="383" r="22" fill="#6d35ff"/>
+  <text x="843" y="391" text-anchor="middle" class="glyph">∞</text>
+  <text x="880" y="382" class="title">INFRASTRUCTURE</text>
+  <text x="828" y="422" class="sub">Linux · Docker · Networking</text>
+  <text x="828" y="442" class="sub">Servers · CI/CD · Automation</text>
+
+  <!-- bottom ribbon -->
+  <rect x="335" y="500" width="430" height="58" rx="18" fill="#0f1018" stroke="#4f2da2"/>
+  <circle cx="365" cy="529" r="10" class="dot" filter="url(#glow)"/>
+  <text x="390" y="535" class="title" font-size="18">CONNECT THE LAYERS</text>
+  <text x="610" y="535" class="sub">build · debug · automate</text>
+</svg>
